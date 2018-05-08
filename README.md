@@ -75,5 +75,13 @@ To run project:
 * `VirturalEnv 15.2.0`
 * `URLLib3 1.22`
 
+## References
+* For Flask App Deployment - [Digital Ocean](https://www.digitalocean.com/community/tutorials/how-to-deploy-a-flask-application-on-an-ubuntu-vps)
+* For PuTTY setup - [AWS Lightsail](https://lightsail.aws.amazon.com/ls/docs/en/articles/lightsail-how-to-set-up-putty-to-connect-using-ssh)
+* For Postgres setup - [Chartio](https://support.chartio.com/knowledgebase/creating-a-user-with-psql)
+* For SSH Key setup - [SSH](https://www.ssh.com/ssh/copy-id#sec-Setting-up-public-key-authentication)
+
+
+
 ## Authors
 * Ricardo Rivera
