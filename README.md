@@ -45,6 +45,7 @@ To demonstrate application deployment:
 
 ## Getting Started
 The IP Address to connect to the server is: `54.191.186.106`
+The SSH Port is: `2200`
 
 ### Prerequisites
 To connect to the webpage correctly an internet connection is required.
