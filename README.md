@@ -38,8 +38,8 @@ To demonstrate application deployment:
 7) Installed all packages required by the application.
 8) Created/configured `VirtualHost` file for the application located at `/etc/apache2/sites-available/catalog.config`
 9) Enabled `VirtualHost` for the application.
-9) Created/configured `.wsgi` file for the application located at `/var/www/catalog/catalog.wsgi`.
-10) Restarted `Apache`.
+10) Created/configured `.wsgi` file for the application located at `/var/www/catalog/catalog.wsgi`.
+11) Restarted `Apache`.
 
 `pip` was installed to install the required packages and allow the application to function as designed.
 
